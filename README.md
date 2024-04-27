@@ -27,7 +27,7 @@
  # About me
 
 <p>
- <img align="right" width="350" src="/assets/man_coding.gif" />
+ <img align="right" width="300" src="/assets/man_coding.gif" />
   
  💻 &emsp; I enjoy programming and sharing my knowledge. <br/><br/>
  🏎️ &emsp; Fast cars enthusiast. <br/><br/>
