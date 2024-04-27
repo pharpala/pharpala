@@ -6,7 +6,7 @@
         </samp>
 </h3>
 
-<p align="center"> 
+<p align="center">
   <samp>
     「 I'm a full stack developer & student from <b>Toronto, Canada</b> 」
     <br>
@@ -25,9 +25,9 @@
 
 <!-- About Section -->
  # About me
- 
+
 <p>
- <img align="right" width="350" src="/assets/code2.gif" />
+ <img align="right" width="350" src="/assets/man_coding.gif" />
   
  💻 &emsp; I enjoy programming and sharing my knowledge. <br/><br/>
  🏎️ &emsp; Fast cars enthusiast. <br/><br/>
